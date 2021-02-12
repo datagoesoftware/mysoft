@@ -1,3 +1,4 @@
 VISI
 1. Migrasi Aplikasi ke CI 4
-2. Semoga dapat berjalan lancar.
+2. Semoga dapat berjalan lancar
+3. Membuat Aplikasi yang berguna bagi user  
