@@ -1,0 +1,3 @@
+VISI
+1. Migrasi Aplikasi ke CI 4
+2. Semoga dapat berjalan lancar.
